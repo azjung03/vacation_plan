@@ -9,3 +9,5 @@ for i in range(5) :
     print(lotto)
 
 
+print("말할 때 들어 제발 제발 제발!!!")
+
