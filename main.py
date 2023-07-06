@@ -1,6 +1,7 @@
  
 import random 
 
+# 충돌 확인하고 수정 진행했습니다 :)
 print("충돌테스트~")
 
 for i in range(5) :
